@@ -48,7 +48,7 @@ font-family: Arial, Helvetica, sans-serif;
 	margin: 0 10px 0 0px;
 }
 .text p:nth-child(9):hover{
-	color: red;
+	color: green;
 }
 .fstory{
 	margin: 20px;
